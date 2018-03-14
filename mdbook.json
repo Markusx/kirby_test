@@ -13,7 +13,7 @@
     "pages":[
         {
             "title":"Getting Started",
-            "path":"mdbook/getting_started.md",
+            "path":"AdobeAtAdobe/kirby_test/master/mdbook/getting_started.md",
             "keywords":"Getting Started,Test",
             "description":"Getting started description",
             "publish_date":"2-27-2018",
@@ -21,27 +21,27 @@
         },
         {
             "title":"Setup",
-            "path":"mdbook/setup.md"
+            "path":"AdobeAtAdobe/kirby_test/master/mdbook/setup.md"
         },
         {
             "title":"Page 1",
-            "path":"mdbook/page1.md",
+            "path":"AdobeAtAdobe/kirby_test/master/mdbook/page1.md",
             "pages":[
                 {
                     "keywords":"",
                     "description":"",
                     "publish_date":"",
                     "title":"Page 1.1",
-                    "path":"mdbook/page1.1.md",
+                    "path":"AdobeAtAdobe/kirby_test/master/mdbook/page1.1.md",
                     "show_edit_github_banner":true,
                     "pages":[
                         {
                             "title":"Page 1.2",
-                            "path":"mdbook/page1.2.md",
+                            "path":"AdobeAtAdobe/kirby_test/master/mdbook/page1.2.md",
                             "pages":[
                                 {
                                     "title":"Page 1.3",
-                                    "path":"mdbook/page1.3.md"
+                                    "path":"AdobeAtAdobe/kirby_test/master/mdbook/page1.3.md"
                                 }
                             ]
                         }
@@ -55,11 +55,11 @@
                     "items":[
                         {
                             "title":"simple js sample",
-                            "path":"mdbook/samples/simplejs.md"
+                            "path":"AdobeAtAdobe/kirby_test/master/mdbook/samples/simplejs.md"
                         },
                         {
                             "title":"simple js sample 2",
-                            "path":"mdbook/samples/simplejs.2.md"
+                            "path":"AdobeAtAdobe/kirby_test/master/mdbook/samples/simplejs.2.md"
                         }
                     ]
                 },
@@ -69,7 +69,7 @@
                     "items" : [
                         {
                             "title":"sample html sample",
-                            "path":"mdbook/samples/html.md"
+                            "path":"AdobeAtAdobe/kirby_test/master/mdbook/samples/html.md"
                         }
                     ]
                     
@@ -79,11 +79,11 @@
         },
         {
             "title":"Page 2",
-            "path":"mdbook/page2.md",
+            "path":"AdobeAtAdobe/kirby_test/master/mdbook/page2.md",
             "pages":[
                 {
                     "title":"Page 2.1",
-                    "path":"mdbook/page2.1.md"
+                    "path":"AdobeAtAdobe/kirby_test/master/mdbook/page2.1.md"
                 }
             ]
         }
