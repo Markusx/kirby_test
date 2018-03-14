@@ -228,7 +228,7 @@ self._client.publish('{0}/feeds/{1}'.format(self._username, _feedName), payload=
 The second method is to publish the values of each key in the extended data to separate feeds. To use this method, set both `mqtt_send_json` and `mqtt_publish_face_values` to `False` in `/config/base.conf`. The `MQTTClient` will now publish each field of the `extendedData` dictionary message to it's own MQTT feed. 
 
 For example, the message created by this code:
-```
+```python
 _cpType = 'elite_sensor'
 _cpid = 'sensor_1337'
 _topic = 'Detected'
