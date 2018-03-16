@@ -20,7 +20,7 @@
             "show_edit_github_banner":false,
             "pages":[
                 {
-                    "title":"Showdown Syntax",
+                    "title":"Syntax",
                     "path":"AdobeAtAdobe/kirby_test/add_test_files/shdbook/Showdown's-Markdown-syntax.md",
                     "keywords":"showdown,test,cheatsheet",
                     "description":"description of the showdown cheatsheet",
@@ -28,15 +28,7 @@
                     "show_edit_github_banner":false
                 },
                 {
-                    "title":"Showdown Syntax",
-                    "path":"AdobeAtAdobe/kirby_test/add_test_files/shdbook/Showdown's-Markdown-syntax.md#known-differences-and-gotchas",
-                    "keywords":"showdown,test,cheatsheet",
-                    "description":"description of the showdown cheatsheet",
-                    "publish_date":"3-16-2018",
-                    "show_edit_github_banner":false
-                },
-                {
-                    "title":"Showdown Options",
+                    "title":"Options",
                     "path":"AdobeAtAdobe/kirby_test/add_test_files/shdbook/Showdown-Options.md",
                     "keywords":"showdown,test,cheatsheet",
                     "description":"description of the showdown cheatsheet",
@@ -44,7 +36,7 @@
                     "show_edit_github_banner":false
                 },
                 {
-                    "title":"Showdown CLI Tool",
+                    "title":"CLI Tool",
                     "path":"AdobeAtAdobe/kirby_test/add_test_files/shdbook/CLI-tool.md",
                     "keywords":"showdown,test,cheatsheet",
                     "description":"description of the showdown cheatsheet",
@@ -52,7 +44,7 @@
                     "show_edit_github_banner":false
                 },
                 {
-                    "title":"Showdown Markdown's XSS Vulnerability",
+                    "title":"Markdown's XSS Vulnerability",
                     "path":"AdobeAtAdobe/kirby_test/add_test_files/shdbook/Markdown's-XSS-Vulnerability-(and-how-to-mitigate-it).md",
                     "keywords":"showdown,test,cheatsheet",
                     "description":"description of the showdown cheatsheet",
@@ -60,7 +52,7 @@
                     "show_edit_github_banner":false
                 },
                 {
-                    "title":"Showdown Extensions",
+                    "title":"Extensions",
                     "path":"AdobeAtAdobe/kirby_test/add_test_files/shdbook/Extensions.md",
                     "keywords":"showdown,test,cheatsheet",
                     "description":"description of the showdown cheatsheet",
@@ -68,7 +60,7 @@
                     "show_edit_github_banner":false
                 },
                 {
-                    "title":"Showdown Emojis",
+                    "title":"Emojis",
                     "path":"AdobeAtAdobe/kirby_test/add_test_files/shdbook/Emojis.md",
                     "keywords":"showdown,test,cheatsheet",
                     "description":"description of the showdown cheatsheet",
@@ -76,8 +68,24 @@
                     "show_edit_github_banner":false
                 },
                 {
-                    "title":"Showdown Tutorial",
+                    "title":"Tutorial",
                     "path":"AdobeAtAdobe/kirby_test/add_test_files/shdbook/Tutorial:-Markdown-editor-using-Showdown.md",
+                    "keywords":"showdown,test,cheatsheet",
+                    "description":"description of the showdown cheatsheet",
+                    "publish_date":"3-16-2018",
+                    "show_edit_github_banner":false
+                },
+                {
+                    "title":"Cookbook",
+                    "path":"AdobeAtAdobe/kirby_test/add_test_files/shdbook/Cookbook:-Using-language-and-output-extensions-on-the-same-block.md",
+                    "keywords":"showdown,test,cheatsheet",
+                    "description":"description of the showdown cheatsheet",
+                    "publish_date":"3-16-2018",
+                    "show_edit_github_banner":false
+                },
+                {
+                    "title":"Contributing",
+                    "path":"AdobeAtAdobe/kirby_test/add_test_files/shdbook/Contributing.md",
                     "keywords":"showdown,test,cheatsheet",
                     "description":"description of the showdown cheatsheet",
                     "publish_date":"3-16-2018",
