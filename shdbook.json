@@ -1,0 +1,23 @@
+{
+    "name": "TestingShdbookView",
+    "version": "1.0.0",
+    "description": "Manifest for reading MD docs in a book style",
+    "author": "Emily Walpole",
+    "view_type": "mdbook",
+    "meta_keywords":"showdown,cheatsheet",
+    "meta_description":"description of the showdown cheatsheet",
+    "publish_date":"3-16-2018",
+    "show_edit_github_banner":false,
+    "show_edit_svn_banner":false,
+    "base_path":"https://raw.githubusercontent.com",
+    "pages":[
+        {
+            "title":"Showdown Cheatsheet",
+            "path":"AdobeAtAdobe/kirby_test/add_test_files/shdbook/Home.md",
+            "keywords":"showdown,test,cheatsheet",
+            "description":"description of the showdown cheatsheet",
+            "publish_date":"3-16-2018",
+            "show_edit_github_banner":false
+        }
+    ]
+}
