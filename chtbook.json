@@ -1,0 +1,91 @@
+{
+    "name": "TestingMdbookView",
+    "version": "1.0.0",
+    "description": "manifest for reading MD docs in a book style",
+    "author": "David Benge",
+    "view_type": "mdbook",
+    "meta_keywords":"defaultkeyword,defaultkeyword2",
+    "meta_description":"default description",
+    "publish_date":"2-27-2018",
+    "show_edit_github_banner":false,
+    "show_edit_svn_banner":false,
+    "base_path":"https://raw.githubusercontent.com",
+    "pages":[
+        {
+            "title":"Getting Started",
+            "path":"AdobeAtAdobe/kirby_test/master/mdbook/getting_started.md",
+            "keywords":"Getting Started,Test",
+            "description":"Getting started description",
+            "publish_date":"2-27-2018",
+            "show_edit_github_banner":false
+        },
+        {
+            "title":"Setup",
+            "path":"AdobeAtAdobe/kirby_test/master/mdbook/setup.md"
+        },
+        {
+            "title":"Page 1",
+            "path":"AdobeAtAdobe/kirby_test/master/mdbook/page1.md",
+            "pages":[
+                {
+                    "keywords":"",
+                    "description":"",
+                    "publish_date":"",
+                    "title":"Page 1.1",
+                    "path":"AdobeAtAdobe/kirby_test/master/mdbook/page1.1.md",
+                    "show_edit_github_banner":true,
+                    "pages":[
+                        {
+                            "title":"Page 1.2",
+                            "path":"AdobeAtAdobe/kirby_test/master/mdbook/page1.2.md",
+                            "pages":[
+                                {
+                                    "title":"Page 1.3",
+                                    "path":"AdobeAtAdobe/kirby_test/master/mdbook/page1.3.md"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "samples": [
+                {   
+                    "group": "Javascript", 
+                    "view_type":"codesample",
+                    "items":[
+                        {
+                            "title":"simple js sample",
+                            "path":"AdobeAtAdobe/kirby_test/master/mdbook/samples/simplejs.md"
+                        },
+                        {
+                            "title":"simple js sample 2",
+                            "path":"AdobeAtAdobe/kirby_test/master/mdbook/samples/simplejs.2.md"
+                        }
+                    ]
+                },
+                {
+                    "view_type":"codesample",
+                    "group": "Html", 
+                    "items" : [
+                        {
+                            "title":"sample html sample",
+                            "path":"AdobeAtAdobe/kirby_test/master/mdbook/samples/html.md"
+                        }
+                    ]
+                    
+                }
+                
+            ]
+        },
+        {
+            "title":"Page 2",
+            "path":"AdobeAtAdobe/kirby_test/master/mdbook/page2.md",
+            "pages":[
+                {
+                    "title":"Page 2.1",
+                    "path":"AdobeAtAdobe/kirby_test/master/mdbook/page2.1.md"
+                }
+            ]
+        }
+    ]
+}
