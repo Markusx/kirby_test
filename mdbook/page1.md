@@ -2,10 +2,15 @@
 A Python IoT framework to easily integrate sensors of any kind into your projects.
 
 [Page 1](./page1.md)
+
 [Page 1.1](./page1.1.md)
+
 [Page 1.2](./page1.2.md)
+
 [Page 1.3](./page1.3.md)
+
 [Page 2](./page2.md)
+
 [Page 2.1](./page2.1.md)
 
 ## Table of Contents
