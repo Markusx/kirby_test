@@ -87,5 +87,8 @@
                 }
             ]
         }
-    ]
+    ],
+    "allowed_paths_mapping": {
+        "AdobeAtAdobe/kirby_test/master": "AdobeAtAdobe/kirby_test/DEVEP-633"
+    }
 }
