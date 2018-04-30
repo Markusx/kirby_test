@@ -19,45 +19,5 @@
             "publish_date":"2-27-2018",
             "show_edit_github_banner":false
         }
-        // {
-        //     "title":"Setup",
-        //     "path":"Markusx/kirby_test/master/mdbook/setup.md"
-        // },
-        // {
-        //     "title":"Page 1",
-        //     "path":"Markusx/kirby_test/master/mdbook/page1.md",
-        //     "pages":[
-        //         {
-        //             "keywords":"",
-        //             "description":"",
-        //             "publish_date":"",
-        //             "title":"Page 1.1",
-        //             "path":"Markusx/kirby_test/master/mdbook/page1.1.md",
-        //             "show_edit_github_banner":true,
-        //             "pages":[
-        //                 {
-        //                     "title":"Page 1.2",
-        //                     "path":"Markusx/kirby_test/master/mdbook/page1.2.md",
-        //                     "pages":[
-        //                         {
-        //                             "title":"Page 1.3",
-        //                             "path":"Markusx/kirby_test/master/mdbook/page1.3.md"
-        //                         }
-        //                     ]
-        //                 }
-        //             ]
-        //         }
-        //     ]
-        // },
-        // {
-        //     "title":"Page 2",
-        //     "path":"Markusx/kirby_test/master/mdbook/page2.md",
-        //     "pages":[
-        //         {
-        //             "title":"Page 2.1",
-        //             "path":"Markusx/kirby_test/master/mdbook/page2.1.md"
-        //         }
-        //     ]
-        // }
     ]
 }
