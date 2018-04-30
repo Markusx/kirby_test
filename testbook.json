@@ -1,0 +1,63 @@
+{
+    "name": "Component and Testing MD Book",
+    "version": "1.0.0",
+    "description": "manifest for reading MD docs in a book style",
+    "author": "Mark Ellis",
+    "view_type": "mdbook",
+    "meta_keywords":"testKeywordOne,testKeyworkTwo",
+    "meta_description":"Component and Testing Description",
+    "publish_date":"2-27-2018",
+    "show_edit_github_banner":false,
+    "show_edit_svn_banner":false,
+    "base_path":"https://raw.githubusercontent.com",
+    "pages":[
+        {
+            "title":"Getting Started",
+            "path":"Markusx/kirby_test/master/testbook/start.md",
+            "keywords":"Getting Started,Test",
+            "description":"Getting started description",
+            "publish_date":"2-27-2018",
+            "show_edit_github_banner":false
+        },
+        {
+            "title":"Setup",
+            "path":"Markusx/kirby_test/master/mdbook/setup.md"
+        },
+        {
+            "title":"Page 1",
+            "path":"Markusx/kirby_test/master/mdbook/page1.md",
+            "pages":[
+                {
+                    "keywords":"",
+                    "description":"",
+                    "publish_date":"",
+                    "title":"Page 1.1",
+                    "path":"Markusx/kirby_test/master/mdbook/page1.1.md",
+                    "show_edit_github_banner":true,
+                    "pages":[
+                        {
+                            "title":"Page 1.2",
+                            "path":"Markusx/kirby_test/master/mdbook/page1.2.md",
+                            "pages":[
+                                {
+                                    "title":"Page 1.3",
+                                    "path":"Markusx/kirby_test/master/mdbook/page1.3.md"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"Page 2",
+            "path":"Markusx/kirby_test/master/mdbook/page2.md",
+            "pages":[
+                {
+                    "title":"Page 2.1",
+                    "path":"Markusx/kirby_test/master/mdbook/page2.1.md"
+                }
+            ]
+        }
+    ]
+}
